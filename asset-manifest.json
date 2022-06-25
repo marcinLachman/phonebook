@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/phonebook/static/css/main.8a0242ba.css",
+    "main.js": "/phonebook/static/js/main.81d3d58a.js",
+    "static/media/twet-logo.svg": "/phonebook/static/media/twet-logo.241bbedbc85e0deb8ebeacb9b8464f79.svg",
+    "static/media/ista-logo.svg": "/phonebook/static/media/ista-logo.593166f09a35764882ef59973e251260.svg",
+    "static/media/fb-logo.svg": "/phonebook/static/media/fb-logo.9480f8f0e25e18baee57725b0f04ce25.svg",
+    "index.html": "/phonebook/index.html",
+    "static/media/logo-trash.svg": "/phonebook/static/media/logo-trash.5876965d0cd6757b5d1b1278fe21c5a7.svg",
+    "main.8a0242ba.css.map": "/phonebook/static/css/main.8a0242ba.css.map",
+    "main.81d3d58a.js.map": "/phonebook/static/js/main.81d3d58a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a0242ba.css",
+    "static/js/main.81d3d58a.js"
+  ]
+}
