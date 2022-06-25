@@ -1,0 +1,39 @@
+ 
+main {
+  display: flex;
+  align-items: center;
+  margin: 1rem auto;
+}
+
+main .container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.5rem;
+}
+
+main ul {
+  background-color: #17161B;
+  border-radius: 0 10px 20px;
+  padding: 1rem;
+}
+
+main li {
+  white-space: nowrap;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-bottom: 2px solid var(--color-text-light);
+  padding: 0.5rem;
+}
+
+.main-button {
+  display: flex;
+  flex-direction: row;
+  
+}
+
+main li button {
+  margin: 0.8rem;
+  font-size: 1.2rem;
+}

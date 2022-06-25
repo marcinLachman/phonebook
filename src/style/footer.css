@@ -1,0 +1,22 @@
+footer {
+  padding: 0.8rem;
+}
+
+footer ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+footer p {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 2rem;
+  padding-top: 1rem;
+}
+
+footer button {
+  font-size: 0.8rem;
+  padding: 1em;
+}

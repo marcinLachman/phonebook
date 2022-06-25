@@ -1,0 +1,37 @@
+.addUsers {
+  display: flex;
+  flex-direction: column;
+}
+
+.addUsers h2 {
+  text-align: center;
+  font-size: 1.5rem;
+  padding: 1rem 0;
+}
+
+.addUsers ul {
+  border: 2px solid #5B4FCF;
+  border-radius: 10px;
+  padding: 1rem;
+}
+
+.addUsers li {
+  padding: 0.5rem 0 0.5rem 0;
+}
+
+.addUsers input {
+  padding: 0.5rem;
+  width: 100%;
+}
+
+.addUsers textarea {
+  padding: 0.5rem;
+  width: 100%;
+}
+
+.addUsers button {
+  margin: 1rem auto;
+  width: 100%;
+  border-radius: 10px;
+  font-size: 1.5rem;
+}
